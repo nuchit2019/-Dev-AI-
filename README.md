@@ -3,6 +3,7 @@
 ทุกวันนี้ Developer จำนวนมากเริ่มใช้ AI ในงานพัฒนา Software แล้ว ไม่ว่าจะเป็นการ Generate Code, Refactor, Debug, เขียน Unit Test, อธิบาย Code หรือช่วย Review
 
 แต่การ **“ใช้ AI เขียน Code ได้”** กับการ **“ใช้ AI พัฒนาระบบเป็น”** เป็นคนละระดับกัน
+<img width="1024" height="1536" alt="4c3c25d3-c967-4ee5-84c2-69a891a44b07" src="https://github.com/user-attachments/assets/bd74970e-491b-4bf0-b221-96cee32c22b8" />
 
 ถ้าเป้าหมายคือการเป็น Dev ที่ใช้ AI เป็นจริง ๆ สิ่งสำคัญไม่ใช่แค่การเขียน Prompt ให้เก่งขึ้น แต่คือการเปลี่ยนวิธีคิดจาก
 
