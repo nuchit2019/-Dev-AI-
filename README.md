@@ -1556,6 +1556,7 @@ Human Control
 ได้ดี
 
 ---
+<img width="1024" height="559" alt="7338dd92-3a0a-409c-ba55-1f7f8b2333cb" src="https://github.com/user-attachments/assets/c9042fc8-f0a9-4367-ae8f-05fdf9d7ba90" />
 
 # เป้าหมายสุดท้าย: AI Software Factory
 
