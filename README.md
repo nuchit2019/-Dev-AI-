@@ -5,6 +5,7 @@
 แต่การ **“ใช้ AI เขียน Code ได้”** กับการ **“ใช้ AI พัฒนาระบบเป็น”** เป็นคนละระดับกัน
 
 <img width="1024" height="1536" alt="4c3c25d3-c967-4ee5-84c2-69a891a44b07" src="https://github.com/user-attachments/assets/bd74970e-491b-4bf0-b221-96cee32c22b8" />
+
 > รูปจาก ChatGPT
 
 ถ้าเป้าหมายคือการเป็น Dev ที่ใช้ AI เป็นจริง ๆ สิ่งสำคัญไม่ใช่แค่การเขียน Prompt ให้เก่งขึ้น แต่คือการเปลี่ยนวิธีคิดจาก
@@ -1560,7 +1561,9 @@ Human Control
 
 ---
 <img width="1024" height="559" alt="7338dd92-3a0a-409c-ba55-1f7f8b2333cb" src="https://github.com/user-attachments/assets/c9042fc8-f0a9-4367-ae8f-05fdf9d7ba90" />
+
 > รูปจาก Gemini
+
 # เป้าหมายสุดท้าย: AI Software Factory
 
 เมื่อทุกส่วนเชื่อมกัน Workflow อาจกลายเป็น
